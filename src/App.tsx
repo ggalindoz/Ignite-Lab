@@ -39,7 +39,7 @@ export function App() {
             <TextInput.Icon>
               <Lock />
             </TextInput.Icon>
-            <TextInput.Input placeholder='*******' />
+            <TextInput.Input placeholder='********' />
           </TextInput.Root>
         </label>
 
